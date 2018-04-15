@@ -1,0 +1,17 @@
+var totalGoals = [
+    { year: 2003, goals: 56},
+    { year: 2004, goals: 53},
+    { year: 2005, goals: 61},
+    { year: 2006, goals: 57},
+    { year: 2007, goals: 59},
+    { year: 2008, goals: 74},
+    { year: 2009, goals: 68},
+    { year: 2010, goals: 58},
+    { year: 2011, goals: 72},
+    { year: 2012, goals: 67},
+    { year: 2013, goals: 82},
+    { year: 2014, goals: 76},
+    { year: 2015, goals: 80},
+    { year: 2016, goals: 93},
+    { year: 2017, goals: 85},   
+    ];
