@@ -218,3 +218,5 @@ function appendLineDotsCharts() {
 }
 ```
 ### Final result:
+
+![alt text](https://github.com/Crisur/Exercise_LineChart_d3js/blob/master/Gr%C3%A1fica.png "Grahp")
